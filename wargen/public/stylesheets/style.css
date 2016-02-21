@@ -1,0 +1,23 @@
+/*LOGIN CONFIGURATION PAGE*/
+.form-login {
+  max-width: 330px;
+  margin: 100px auto 0;
+  background: #fff;
+  border: 1px solid #2a459c;
+}
+.form-login h2.form-login-heading {
+  margin: 0;
+  padding: 25px 20px;
+  text-align: center;
+  background: #688cf0;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.login-wrap {
+  padding: 20px;
+}
+.login-wrap .registration {
+  text-align: center;
+}

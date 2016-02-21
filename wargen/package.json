@@ -1,0 +1,15 @@
+{
+  "name": "wargen",
+  "version": "0.0.0",
+  "description": "wargen",
+  "main": "app.js",
+  "author": {
+    "name": "Victor",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
