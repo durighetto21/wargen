@@ -35,27 +35,19 @@
     <Compile Include="config\production.js" />
     <Compile Include="config\staging.js" />
     <Compile Include="controllers\login.js" />
-    <Compile Include="controllers\index.js" />
-    <Compile Include="controllers\site.js" />
-    <Compile Include="controllers\user.js" />
     <Compile Include="models\user.js" />
+    <Compile Include="public\javascripts\bootstrap\bootstrap.js" />
     <Compile Include="public\javascripts\bootstrap\bootstrap.min.js" />
     <Compile Include="public\javascripts\jquery\jQuery-2.1.4.min.js" />
     <Compile Include="routes\login.js" />
-    <Compile Include="routes\index.js" />
     <Compile Include="bin\www" />
-    <Compile Include="routes\user.js" />
     <Content Include="package.json" />
+    <Content Include="public\stylesheets\bootstrap\bootstrap.css" />
     <Content Include="public\stylesheets\bootstrap\bootstrap.min.css" />
     <Content Include="public\stylesheets\template\AdminLTE.css" />
+    <Content Include="public\stylesheets\template\AdminLTE.min.css" />
     <Content Include="README.md" />
-    <Content Include="views\index.jade" />
-    <Content Include="views\layout.jade" />
-    <Content Include="views\error.jade" />
-    <Content Include="views\index.ejs" />
-    <Content Include="views\login.html" />
-    <Content Include="views\login.jade" />
-    <Content Include="views\user.jade" />
+    <Content Include="views\login.ejs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="bin\" />
